@@ -1,0 +1,7 @@
+{
+    "require": {
+        "imangazaliev/didom": "^2.0",
+        "guzzlehttp/guzzle": "^7.9",
+        "krugozor/database": "^1.0"
+    }
+}
